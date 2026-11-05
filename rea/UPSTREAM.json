@@ -1,0 +1,51 @@
+{
+  "repository": "https://github.com/morluto/rea",
+  "branch": "main",
+  "commit": "fe677f6cf9853fb12490dfb8ef23ccae3a551049",
+  "version": "6.8.0",
+  "snapshot_date": "2026-11-05",
+  "timezone": "Asia/Shanghai",
+  "license": "MIT",
+  "upstream_blob_count": 7301,
+  "upstream_gitlink_count": 5,
+  "destination_repository": "https://github.com/aHao030/ai-skills",
+  "destination_folder": "rea",
+  "local_additions": [
+    "ARCHIVE.zh-CN.md",
+    "UPSTREAM.json"
+  ],
+  "installation_status": "source_snapshot_only",
+  "submodule_storage": "Original pinned gitlinks; root .gitmodules maps paths with rea/ prefix",
+  "submodules": [
+    {
+      "source_path": "third_party/binwalk",
+      "stored_path": "rea/third_party/binwalk",
+      "repository": "https://github.com/ReFirmLabs/binwalk.git",
+      "commit": "4fdab3d464d97b68e0af9088df3f9e2e1545b21c"
+    },
+    {
+      "source_path": "third_party/ghidra-nativeaot",
+      "stored_path": "rea/third_party/ghidra-nativeaot",
+      "repository": "https://github.com/Washi1337/ghidra-nativeaot.git",
+      "commit": "effeb734fc570c32650f88b159608979dc7b423e"
+    },
+    {
+      "source_path": "third_party/jadx-headless-mcp",
+      "stored_path": "rea/third_party/jadx-headless-mcp",
+      "repository": "https://github.com/1013503897/jadx-headless-mcp.git",
+      "commit": "5844800a486d2248fa949b74c9896285f5b54de2"
+    },
+    {
+      "source_path": "third_party/unblob",
+      "stored_path": "rea/third_party/unblob",
+      "repository": "https://github.com/onekey-sec/unblob.git",
+      "commit": "1fcc7a0a584a70a96c31f5a276c20944d199a089"
+    },
+    {
+      "source_path": "third_party/wakaru",
+      "stored_path": "rea/third_party/wakaru",
+      "repository": "https://github.com/pionxzh/wakaru.git",
+      "commit": "8219bf5016a063d7fb215101a8c45d5959ec733f"
+    }
+  ]
+}
