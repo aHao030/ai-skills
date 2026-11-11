@@ -1,0 +1,20 @@
+{
+  "repository": "https://github.com/meta/astryx",
+  "branch": "main",
+  "commit": "9a3f29608e789a8de0d461bb0393f8cfde422867",
+  "cli_version_in_source": "0.7.14",
+  "snapshot_date": "2026-11-11",
+  "timezone": "Asia/Shanghai",
+  "license": "MIT",
+  "upstream_entry_count": 10476,
+  "upstream_gitlink_count": 0,
+  "destination_repository": "https://github.com/aHao030/ai-skills",
+  "destination_folder": "astryx",
+  "source_directory": "source",
+  "local_installation": {
+    "package": "@astryxdesign/cli",
+    "version": "0.7.13",
+    "scope": "global",
+    "agent_guide": "astryx init --user"
+  }
+}

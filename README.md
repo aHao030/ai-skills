@@ -6,6 +6,7 @@
 | --- | --- | --- | --- |
 | [mattpocock-skills](mattpocock-skills/) | Matt Pocock 的 AI 工程与通用工作流技能，包含需求梳理、开发、测试、调试和交接 | 1.3.2，提交 `4ae2317` | [中文说明](mattpocock-skills/DEPLOYMENT.zh-CN.md) |
 | [rea](rea/) | REA 逆向分析工具，供 AI 分析应用、原生二进制和运行行为 | 详见 [来源记录](rea/UPSTREAM.json) | [存档说明](rea/ARCHIVE.zh-CN.md) |
+| [astryx](astryx/) | Meta 的 React 界面组件、主题与页面模板，本机已安装全局工具及 AI 使用指引 | 本机工具 0.7.13，源码提交 `9a3f296` | [使用说明](astryx/README.md) |
 
 此仓库存放项目源码。保存到 GitHub 不会自动在本机安装或启用工具，安装方法请查看对应文件夹的说明。
 
